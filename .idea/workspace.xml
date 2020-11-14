@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a06d9749-061d-455b-ae72-567bb2e65ace" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learning-git-2/task-runner/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/.htmlvalidate.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/.htmlvalidate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/.idea/Learning-git-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/.idea/Learning-git-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/Project-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/Project-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/Project-1/vendor/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/komendy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/komendy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-git-2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learning-git-2/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learning-git-2/Project-1" />
+  </component>
+  <component name="ProjectId" id="1jyVObljBLOPXBfYjov3BSPrTWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js-test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js-test/vendor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js-test" />
+      <recent name="$PROJECT_DIR$/javascript-pre" />
+      <recent name="$PROJECT_DIR$/javascript-prework" />
+      <recent name="$PROJECT_DIR$/learning-git-2" />
+      <recent name="$PROJECT_DIR$/learning-git-2/task-runner" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js-test/js/script.js" working-dir="$PROJECT_DIR$/js-test/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a06d9749-061d-455b-ae72-567bb2e65ace" name="Default Changelist" comment="" />
+      <created>1604776287828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604776287828</updated>
+      <workItem from="1604776288919" duration="31064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="179" key="GridCell.Tab.0.bottom" timestamp="1605093859263">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1604869872978" />
+    <state width="1259" height="179" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1605043876117" />
+    <state width="1259" height="179" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1605093859263" />
+    <state width="1259" height="179" key="GridCell.Tab.0.center" timestamp="1605093859257">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1604869872977" />
+    <state width="1259" height="179" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1605043876115" />
+    <state width="1259" height="179" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1605093859257" />
+    <state width="1259" height="179" key="GridCell.Tab.0.left" timestamp="1605093859256">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1604869872976" />
+    <state width="1259" height="179" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1605043876112" />
+    <state width="1259" height="179" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1605093859256" />
+    <state width="1259" height="179" key="GridCell.Tab.0.right" timestamp="1605093859257">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1604869872977" />
+    <state width="1259" height="179" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1605043876116" />
+    <state width="1259" height="179" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1605093859257" />
+    <state width="1259" height="223" key="GridCell.Tab.1.bottom" timestamp="1604868331654">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1604868331654" />
+    <state width="1259" height="223" key="GridCell.Tab.1.center" timestamp="1604868331652">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1604868331652" />
+    <state width="1259" height="223" key="GridCell.Tab.1.left" timestamp="1604868331652">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1604868331652" />
+    <state width="1259" height="223" key="GridCell.Tab.1.right" timestamp="1604868331653">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1604868331653" />
+    <state width="1259" height="223" key="GridCell.Tab.2.bottom" timestamp="1604868331656">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.2.bottom/0.23.1280.721@0.23.1280.721" timestamp="1604868331656" />
+    <state width="1259" height="223" key="GridCell.Tab.2.center" timestamp="1604868331655">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.2.center/0.23.1280.721@0.23.1280.721" timestamp="1604868331655" />
+    <state width="1259" height="223" key="GridCell.Tab.2.left" timestamp="1604868331655">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.2.left/0.23.1280.721@0.23.1280.721" timestamp="1604868331655" />
+    <state width="1259" height="223" key="GridCell.Tab.2.right" timestamp="1604868331656">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.2.right/0.23.1280.721@0.23.1280.721" timestamp="1604868331656" />
+    <state width="1259" height="223" key="GridCell.Tab.3.bottom" timestamp="1604868205748">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.3.bottom/0.23.1280.721@0.23.1280.721" timestamp="1604868205748" />
+    <state width="1259" height="223" key="GridCell.Tab.3.center" timestamp="1604868205748">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.3.center/0.23.1280.721@0.23.1280.721" timestamp="1604868205748" />
+    <state width="1259" height="223" key="GridCell.Tab.3.left" timestamp="1604868205747">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.3.left/0.23.1280.721@0.23.1280.721" timestamp="1604868205747" />
+    <state width="1259" height="223" key="GridCell.Tab.3.right" timestamp="1604868205748">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="223" key="GridCell.Tab.3.right/0.23.1280.721@0.23.1280.721" timestamp="1604868205748" />
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup" timestamp="1604867018945">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup/0.23.1280.721@0.23.1280.721" timestamp="1604867018945" />
+  </component>
+</project>
