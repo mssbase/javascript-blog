@@ -12,17 +12,22 @@ const titleClickHandler = function(event){
 
     /* remove class 'active' from all article links  */
     const activeLinks = document.querySelectorAll('.titles a.active');
-
+console.log(activeLinks)
     for(let activeLink of activeLinks){
         activeLink.classList.remove('active');
     }
     /* add class 'active' to the clicked link */
-    console.log('clickedElement:', clickedElement);
+    // console.log('clickedElement:', clickedElement);
+    // const activeLinks = document.querySelectorAll('.titles a');
+
+    document.classList.add('active');
+
+    console.log('clickedElement (with plus): ' + clickedElement);
 
     /* remove class 'active' from all articles */
-    const activeArticles = document.querySelectorAll('.titles a.article.active');
-
-    for(let activeArticles of activeArticle){
+    const activeArticles = document.querySelectorAll('.posts .post.active');
+console.log(activeArticles)
+    for(let activeArticle of activeArticles){
         activeArticle.classList.remove('active');
     }
 
@@ -32,8 +37,8 @@ const titleClickHandler = function(event){
 
     /* add class 'active' to the correct article */
 }
-console.log(titleClickHandler);
-console.log('clickedElement (with plus): ' + clickedElement);
+// console.log(titleClickHandler());
+
 
 const links = document.querySelectorAll('.titles a');
 
