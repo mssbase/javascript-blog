@@ -7,6 +7,7 @@ document.getElementById('test-button').addEventListener('click', function(){
 });
 
 const titleClickHandler = function(event){
+    event.preventDefault();
     const clickedElement = this;
     console.log('Link was clicked!');
 
@@ -18,10 +19,9 @@ console.log(activeLinks)
     }
     /* add class 'active' to the clicked link */
     // console.log('clickedElement:', clickedElement);
-    // const activeLinks = document.querySelectorAll('.titles a');
 
-    document.classList.add('active');
-
+    // const Articles = document.querySelectorAll('.titles a');
+        clickedElement.classList.add('active');
     console.log('clickedElement (with plus): ' + clickedElement);
 
     /* remove class 'active' from all articles */
